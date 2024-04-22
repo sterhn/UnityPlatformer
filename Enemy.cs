@@ -9,7 +9,6 @@ public class Enemy : MonoBehaviour
     Transform player;
     int maxd = 10;
     int mind = 2;
-    bool go;
     public Animator animator;
    bool flip;
     // Start is called before the first frame update
